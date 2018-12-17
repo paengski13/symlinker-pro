@@ -1,6 +1,6 @@
 {
-  "name": "staempfli/symlinker-pro",
-  "description": "Tool to create relative symlinks",
+  "name": "paengski/symlinker-pro",
+  "description": "Fork tool to create relative symlinks",
   "type": "staempfli-tool",
   "license": [
     "GPL-3.0"
