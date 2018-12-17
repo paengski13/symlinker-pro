@@ -1,5 +1,6 @@
 {
   "name": "paengski/symlinker-pro",
+  "version": "1.0.0",
   "description": "Fork tool to create relative symlinks",
   "type": "staempfli-tool",
   "license": [
